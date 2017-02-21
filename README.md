@@ -1,4 +1,11 @@
 # Ibotta DevOps App Response
+Please clone this repo with
+
+```bash
+git clone --recursive https://github.com/rayzeller/vagrant-ibotta
+````
+because it contains git submodules.
+
 
 To run (on OSX):
 
