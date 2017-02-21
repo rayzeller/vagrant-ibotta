@@ -3,14 +3,14 @@
 To run (on OSX):
 
 Install Virtualbox
-``brew cask install virtualbox``
+```brew cask install virtualbox```
 
 Install Vagrant
-``brew cask install vagrant``
+```brew cask install vagrant```
 
 Start up the box.
 
-``vagrant up``
+```vagrant up```
 
 Tweak any attributes in ``cookbooks/ibotta_devops/attributes/default.rb``
 
