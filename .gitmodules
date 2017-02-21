@@ -1,0 +1,23 @@
+[submodule "cookbooks/dmg"]
+  path = cookbooks/dmg
+  url = git://github.com/chef-cookbooks/dmg.git
+
+[submodule "cookbooks/git"]
+  path = cookbooks/git
+  url = git://github.com/chef-cookbooks/git.git
+
+[submodule "cookbooks/mysql"]
+  path = cookbooks/mysql
+  url = git://github.com/chef-cookbooks/mysql.git
+
+[submodule "cookbooks/ruby_build"]
+  path = cookbooks/ruby_build
+  url = git://github.com/sous-chefs/ruby_build.git
+
+[submodule "cookbooks/ruby_rbenv"]
+  path = cookbooks/ruby_rbenv
+  url = git://github.com/sous-chefs/ruby_rbenv.git
+
+[submodule "cookbooks/yum-epel"]
+  path = cookbooks/yum-epel
+  url = git://github.com/chef-cookbooks/yum-epel.git
